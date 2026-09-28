@@ -1,0 +1,19 @@
+{
+  "cadastros": [
+    {
+      "nome": "clara",
+      "sobrenome": "queiroz",
+      "telefone": "1234567455",
+      "cidade": "mogi das cruzes",
+      "estado": "sp",
+      "cep": "1234567654",
+      "rg": "12345432",
+      "cpf": "12345645678",
+      "idade": "23",
+      "curso": "mecanica",
+      "escola": "sesi",
+      "id": "igz10Z91hnE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
